@@ -8,7 +8,6 @@ To implement Erosion and Dilation using Python and OpenCV.
 ### Step1:
 <br>
 
-
 ### Step2:
 <br>
 
